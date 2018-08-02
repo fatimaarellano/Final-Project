@@ -1,0 +1,25 @@
+.img-fluid {
+  max-width: 30%;
+  height:auto;
+  padding-bottom: 8px;
+}
+.img-fluid-2 {
+  max-width:50%;
+  height:auto;
+  padding-top: 0;
+}
+.nav {
+  display: flex;
+}
+.text-center {
+  font-size: 20px
+}
+body {
+  font-family: 'Raleway', sans-serif;
+}
+h1 {
+  font-family: 'Poppins', sans-serif;
+}
+h2 {
+  font-family: 'Raleway', sans-serif;
+}
